@@ -1,4 +1,4 @@
-# WA Project with Python
+# Wc Project with Python
 
 This project creates an eye-catching word art design using Python. It combines a word cloud shaped into a specific form with a custom background image to produce an engaging and creative visual output.
 
